@@ -10,7 +10,7 @@ This project aims to describe how each of Canada’s provinces performed in the 
 
   1.  Distribution of Sources of Emissions in Canada
   
-   ![image](https://user-images.githubusercontent.com/91929677/140853154-86fa91d2-ff69-4a82-be70-f679ffacd304.png)
+    ![image](https://user-images.githubusercontent.com/91929677/144754051-cc7bd59e-88d3-4bda-83ca-031297bb1155.png)
 
 
   2.  Correlation of Features
@@ -20,8 +20,7 @@ This project aims to describe how each of Canada’s provinces performed in the 
 
   3.  Selected Features in building models
     
-   ![image](https://user-images.githubusercontent.com/91929677/140853767-c5d0b79a-d89e-4e80-9e08-3d200bf22763.png)
-
+    ![image](https://user-images.githubusercontent.com/91929677/144754074-63571d1a-7399-467a-936d-54b002ff316a.png)
   
   4.  Trends of air pollutant emissions
    
