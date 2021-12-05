@@ -9,14 +9,13 @@ This project aims to describe how each of Canada’s provinces performed in the 
 •	Visualizations:
 
   1.  Distribution of Sources of Emissions in Canada
-  
-    ![image](https://user-images.githubusercontent.com/91929677/144754051-cc7bd59e-88d3-4bda-83ca-031297bb1155.png)
-
+ 
+    ![image](https://user-images.githubusercontent.com/91929677/144754223-8f461392-6f83-44f0-b0b8-c784d9bdd34c.png)
 
   2.  Correlation of Features
 
-   ![image](https://user-images.githubusercontent.com/91929677/140853528-e96078b4-01f8-4bc6-8e04-e39a7d60c66c.png)
-
+    ![image](https://user-images.githubusercontent.com/91929677/144754198-f08782d1-f507-4a5b-86ee-b81b3a71f054.png)
+    
 
   3.  Selected Features in building models
     
