@@ -1,5 +1,5 @@
 # Emissions of Air Pollutants in Canada’s Provinces & Territories
-##CIND 820 Project
+## CIND 820 Project
 
 Information about air pollutants and the effects of these gases in the atmosphere and the great threat it imposes on the survival of humans nowadays is essential.
 This project aims to describe how each of Canada’s provinces performed in the reduction of air pollutants and will attempt to forecast the emissions of air pollutants.
