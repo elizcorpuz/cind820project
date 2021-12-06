@@ -9,46 +9,61 @@ This project aims to describe how each of Canada’s provinces performed in the 
 •	Visualizations:
 
   1.  Distribution of Sources of Emissions in Canada
- 
-    ![image](https://user-images.githubusercontent.com/91929677/144754223-8f461392-6f83-44f0-b0b8-c784d9bdd34c.png)
+   
+
+   ![source emission](https://user-images.githubusercontent.com/91929677/144786685-db3938de-9ca1-4442-bb1f-3b3db5deda90.png)
+
 
   2.  Correlation of Features
+  
 
-    ![image](https://user-images.githubusercontent.com/91929677/144754198-f08782d1-f507-4a5b-86ee-b81b3a71f054.png)
-    
+   ![chart](https://user-images.githubusercontent.com/91929677/144786779-0ac65885-30b9-480c-a7ea-58dc60f265ad.png)
+
 
   3.  Selected Features in building models
-    
-    ![image](https://user-images.githubusercontent.com/91929677/144754074-63571d1a-7399-467a-936d-54b002ff316a.png)
   
-  4.  Trends of air pollutant emissions
+    
+  ![pollutants](https://user-images.githubusercontent.com/91929677/144787363-febeadf8-4774-49e6-9587-ea4cfdc60e54.png)
+
+  
+  4.  Sources of emissions that needs reforms
+  
+  
+  ![dust](https://user-images.githubusercontent.com/91929677/144787900-f314e442-d99a-4832-af33-6687207ddb96.png)
+
+
+  ![commercialResidentialinstitutional](https://user-images.githubusercontent.com/91929677/144787919-10b48d24-30e0-44ae-b38b-361b843c8cd2.png)
+
+  
+  ![oilAndGas](https://user-images.githubusercontent.com/91929677/144787960-de3e2b51-0a40-44e9-a400-53ecf50bd334.png)
+  
+  
+  5.  Provinces with increasing trends of air pollutants
    
-   ![image](https://user-images.githubusercontent.com/91929677/140854401-dffd1982-c1b4-4e00-9910-6a5219ef34c1.png)
+   
+  ![alberta](https://user-images.githubusercontent.com/91929677/144788181-26e43093-0db4-4235-819b-f59ca9440d97.png)
+  
 
-   ![image](https://user-images.githubusercontent.com/91929677/140854431-b7a293c2-3f84-465d-b9dc-c77d9728e7b1.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854550-55871664-a771-45df-81fd-ebbe3a0a2e5b.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854575-028e3ea4-1939-4ddc-9a9d-1f9c03849e78.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854621-836d1b6f-2666-4a00-8b89-2931e95ad1a5.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854657-a05e4d50-c439-4747-a285-d84d5ea71af7.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854683-09ef3e18-65af-4979-87af-e0aea7f5d16b.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854713-14621364-dcce-42e9-892a-3f7430645b73.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854749-651f742e-0fc4-4cd3-9d26-3bf3c8b26fe2.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854850-74f53825-33e7-43d6-a8e6-b2fe11d596d1.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854887-bb387a97-58d9-4c5f-bc98-6622febb4a6f.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854922-2bfebe5f-ea75-45a4-8d33-855b3914f22f.png)
-
-   ![image](https://user-images.githubusercontent.com/91929677/140854963-a11843a7-088a-4d8f-9828-b77c2dad553c.png)
+  ![bc](https://user-images.githubusercontent.com/91929677/144788204-cb8887b3-bc45-479c-9158-b31896e6f1fe.png)
+  
+  
+  ![manitoba](https://user-images.githubusercontent.com/91929677/144788244-6ce5a6c5-451f-4824-8f3e-6dae7a6f7ed1.png)
 
 
+  ![nflAndLabrador](https://user-images.githubusercontent.com/91929677/144788256-8bb5a48c-cd8f-46dd-8a0c-2dc11c863475.png)
+
+
+  ![nunavut](https://user-images.githubusercontent.com/91929677/144788275-a7065f0c-0032-4be0-bd7a-bb7f397dd267.png)
+  
+
+  ![quebec](https://user-images.githubusercontent.com/91929677/144788348-e2f593ad-c092-4d40-a552-0668d9427da2.png)
+
+
+  ![saskatchewan](https://user-images.githubusercontent.com/91929677/144788370-af959aef-a0cb-4110-82b1-6b847f26e080.png)
+
+
+
+
+  
 •	Credits to:
   Environment and Climate Change Canada for the CANADA’S AIR POLLUTANT EMISSIONS INVENTORY REPORT 2019 (https://publications.gc.ca/site/eng/9.869731/publication.html)
