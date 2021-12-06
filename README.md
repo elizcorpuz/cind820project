@@ -4,29 +4,29 @@
 Information about air pollutants and the effects of these gases in the atmosphere and the great threat it imposes on the survival of humans nowadays is essential.
 This project aims to describe how each of Canada’s provinces performed in the reduction of air pollutants and will attempt to forecast the emissions of air pollutants.
 
-•	Link to Project dataset:  https://data-donnees.ec.gc.ca/data/substances/monitor/canada-s-air-pollutant-emissions-inventory/EN_APEI-Can-Prov_Terr.csv
+### •	Link to Project dataset:  https://data-donnees.ec.gc.ca/data/substances/monitor/canada-s-air-pollutant-emissions-inventory/EN_APEI-Can-Prov_Terr.csv
 
-•	Visualizations:
+### •	Visualizations:
 
-  1.  Distribution of Sources of Emissions in Canada
+###  1.  Distribution of Sources of Emissions in Canada
    
 
    ![source emission](https://user-images.githubusercontent.com/91929677/144786685-db3938de-9ca1-4442-bb1f-3b3db5deda90.png)
 
 
-  2.  Correlation of Features
+###  2.  Correlation of Features
   
 
    ![chart](https://user-images.githubusercontent.com/91929677/144786779-0ac65885-30b9-480c-a7ea-58dc60f265ad.png)
 
 
-  3.  Selected Features in building models
+###  3.  Selected Features in building models
   
     
   ![pollutants](https://user-images.githubusercontent.com/91929677/144787363-febeadf8-4774-49e6-9587-ea4cfdc60e54.png)
 
   
-  4.  Sources of emissions that needs reforms
+ ### 4.  Sources of emissions that needs reforms
   
   
   ![dust](https://user-images.githubusercontent.com/91929677/144787900-f314e442-d99a-4832-af33-6687207ddb96.png)
@@ -38,7 +38,7 @@ This project aims to describe how each of Canada’s provinces performed in the 
   ![oilAndGas](https://user-images.githubusercontent.com/91929677/144787960-de3e2b51-0a40-44e9-a400-53ecf50bd334.png)
   
   
-  5.  Provinces with increasing trends of air pollutants
+ ### 5.  Provinces with increasing trends of air pollutants
    
    
   ![alberta](https://user-images.githubusercontent.com/91929677/144788181-26e43093-0db4-4235-819b-f59ca9440d97.png)
